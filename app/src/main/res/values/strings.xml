@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">CoolDroid</string>
     <string name="cooldroid_content_description">CoolDroid image</string>
+    <string name="txt_dont_touch">Don\'t touch the Droid!</string>
 </resources>
